@@ -10,7 +10,7 @@ Camera Effects
 
 This is my Camera Effects Projects.
 
-![picture_title](https://github.com/nbayoungboy30/nbayoungboy30.github.io/blob/master/The%20Finals.PNG?raw=true "Optional Title")
+![The Finals](https://github.com/nbayoungboy30/nbayoungboy30.github.io/blob/master/The%20Finals.PNG?raw=true "Optional Title")
 
 ***
 
